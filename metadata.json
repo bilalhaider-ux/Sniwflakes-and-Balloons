@@ -1,0 +1,6 @@
+{
+  "name": "Snowflakes and Balloons",
+  "description": "A formal looking frontend application featuring elegant snowflake and balloon animation effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
